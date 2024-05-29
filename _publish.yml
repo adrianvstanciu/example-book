@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9c9eb5fc-2edd-4aec-9c6b-6fa5191db2af
+      url: 'https://adrian-stanciu.quarto.pub/example-book'
